@@ -1,0 +1,3 @@
+El comando cp es utilizado para copiar y pegar una carpeta o archivo utilizando la terminal.
+Para utilizarlo se  indica  el nombre del archivo a copiar y el nombre del archivo o directorio donde quieres que se copie.
+
